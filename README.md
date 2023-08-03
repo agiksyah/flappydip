@@ -3,4 +3,4 @@ Customize <a href="https://github.com/marksteve/dtmb">dtmb</a> just for fun.
 
 
 
-<a href="http://bit.ly/2B9Ns3v" target="_blank">flappydip</a>
+<a href="https://rawcdn.githack.com/agiksyah/flappydip/53b2bd50889d59380fc0e3a74872897f15aabe54/index.html" target="_blank">flappydip</a>
